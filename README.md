@@ -1,1 +1,1 @@
-"# Simple Projects made using c language" 
+# Simple Projects made using c language
